@@ -1,4 +1,4 @@
-# Python basics 
+# Numerické metódy (NUM) 
 
 Interaktívny kurz pozostávajúci z Jupyter notebookov bežiacich online na serveri Binder s kernelmi SageMath, Python, R, Julia, Octave, JavaScript.
 
